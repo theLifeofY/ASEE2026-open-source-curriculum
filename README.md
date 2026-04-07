@@ -4,4 +4,7 @@ This repository is home to a set of open-source teaching materials used in imple
 Link to the latest version of the Gender-Design IAT can be found here: https://oregonstate.qualtrics.com/jfe/form/SV_eXtaI1DY0GqrNWK
 
 The materials include the following: 
-- Slides 
+- Teaching-ready slides (with some reasonable edits to fit your curriculum)
+- Reading list (with reasonable texts for different levels of undergrads)
+- Gender-Design IAT zine (a fun, engaging alternative intro to implicit biases and the IAT)
+- R-code to interpret IAT scores is within the zine
